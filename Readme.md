@@ -1,6 +1,6 @@
-# 🐾 AdoptMe - Final Backend Project
+# 🐾 AdoptMe
 
-This project is the **final deliverable** for the Backend course. AdoptMe is an API to manage users, pets, and adoptions.
+AdoptMe is an API to manage users, pets, and adoptions.
 
 Key features:
 
