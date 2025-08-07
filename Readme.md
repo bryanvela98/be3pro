@@ -23,12 +23,12 @@ Key features:
 
 The project image has been uploaded to DockerHub and can be used from the following link:
 
-🔗 **[View Image on DockerHub]()**
+🔗 **[View Image on DockerHub](Had admin permission problems to generate the image)**
 
 Download the image:
 
 ```bash
-docker pull bryanvela98/backendproy3-image
+docker pull 'your_image'
 ```
 
 ---
